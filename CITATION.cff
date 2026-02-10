@@ -1,0 +1,12 @@
+(Will be updated soon)
+
+cff-version: 1.2.0
+message: "If you use this, please cite the paper."
+title: "Radial Müntz-Szász Networks"
+authors:
+  - family-names: "N'guessan"
+    given-names: "Gnankan Landry Regis"
+  - family-names: "Kim"
+    given-names: "Bum Jun"
+version: 0.1.0
+date-released: "2026-02-10"
